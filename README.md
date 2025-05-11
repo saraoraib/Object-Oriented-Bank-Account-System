@@ -1,1 +1,3 @@
 # Object-Oriented-Bank-Account-System
+
+SmartBank is a simple yet extensible object-oriented system that simulates core functionalities of a bank account. The system enables users to manage their account balance through secure deposit and withdrawal operations while ensuring data encapsulation and clean code structure. It also logs all financial transactions with timestamps, promoting accountability and transparency. The solution is built using Python and applies essential OOP concepts such as classes, objects, encapsulation, and polymorphism, making it an ideal foundation for more advanced banking applications in the future.
